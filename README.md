@@ -36,4 +36,4 @@ Complete the following steps:
 
 7) Deploy your app to GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-Dashboard![Dashboard](https://github.com/mcjauregui/belly-button-challenge/assets/151464511/a9131fe9-c1a3-4c17-8525-016155c23072)
+![Dashboard](https://github.com/mcjauregui/belly-button-challenge/assets/151464511/a9131fe9-c1a3-4c17-8525-016155c23072)
