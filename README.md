@@ -35,6 +35,7 @@ Complete the following steps:
 6) Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
 
 7) Deploy your app to GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+   Note: GitHub will not allow me to deploy this app. I have a limit of one app at a time on GitHub Pages. Even after deleting my existing app and registering for a free Enterprise GitHub trial, I still can't deploy this app to GitHub Pages. 
 
 Assistance with function definition and syntax throughout the app.js file provided by XpertLearning Assistant (https://bootcampspot.instructure.com/courses/4981/external_tools/313) and Mychele Larson.
 
