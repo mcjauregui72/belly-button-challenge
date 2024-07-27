@@ -13,3 +13,6 @@ Steps taken:
 5) Create a gauge chart that displays the individual's weekly wash frequency.
 6) Create a bubble chart that displays each sample.
 7) Update all the plots when a new sample is selected.
+
+![Dashboard01](https://github.com/user-attachments/assets/e17fa346-6af3-4620-92fd-226a12507727)
+![Dashboard02](https://github.com/user-attachments/assets/e0e27658-0ec9-49b7-b0c4-00f450a577c5)
